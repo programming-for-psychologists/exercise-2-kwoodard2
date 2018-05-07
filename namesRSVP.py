@@ -1,7 +1,7 @@
 import time
 import sys
 import random
-from psychopy import visual,event,core,gui
+from psychopy import visual,event,core #,gui has out this part because of crashes
 
 
 names = open('names.txt', 'r').readlines()

@@ -102,3 +102,6 @@ while True:
             core.wait(.5)
     win.flip()
     core.wait(.15)
+    
+    
+#in future, keyList =['space','l','f'] the brackets fixes it
